@@ -1,0 +1,50 @@
+1:He's a short-sighted day-dreaming photographer for the 21st century. 
+2:He's a jaded gay cat burglar from the Mississippi delta. 
+3:He's a short-sighted ninja jungle king on a search for his missing sister. 
+4:He's an otherworldly albino gangster who must take medication to keep him sane. 
+5:He's a lounge-singing skateboarding boxer fleeing from a secret government programme. 
+6:He's a Nobel prize-winning arachnophobic gangster in a wheelchair. 
+7:He's an impetuous misogynist card sharp on the run. 
+8:He's a jaded hunchbacked assassin from the Mississippi delta. 
+9:He's a hate-fuelled voodoo paramedic in drag. 
+10:He's a gun-slinging pirate photographer from a doomed world. 
+11:He's a bookish neurotic matador on the run. 
+12:He's an ungodly day-dreaming ex-con from the 'hood. 
+13:He's an unconventional drug-addicted messiah who hides his scarred face behind a mask. 
+14:He's a leather-clad native American waffle chef with a passion for fast cars. 
+15:He's a jaded chivalrous vampire hunter gone bad. 
+16:He's a lounge-singing flyboy cowboy on a mission from God. 
+17:He's a hate-fuelled skateboarding firefighter looking for a cure to the poison coursing through his veins. 
+18:He's an immortal sweet-toothed photographer with a secret. 
+19:He's a war-weary flyboy ex-con whom everyone believes is mad. 
+20:He's a superhumanly strong sweet-toothed rock star looking for 'the Big One.' 
+21:He's an immortal coffee-fuelled Green Beret with a secret. 
+22:He's a short-sighted guerilla vampire hunter from the Mississippi delta. 
+23:He's an unconventional sweet-toothed paranormal investigator plagued by the memory of his family's brutal murder. 
+24:He's a bookish white trash stage actor whom everyone believes is mad. 
+25:He's a bookish small-town househusband with a passion for fast cars. 
+26:He's a shy white trash Green Beret plagued by the memory of his family's brutal murder. 
+27:He's an obese zombie shaman with nothing left to lose. 
+28:He's a short-sighted zombie shaman for the 21st century. 
+29:He's an ungodly sweet-toothed househusband possessed of the uncanny powers of an insect. 
+30:He's a fiendish one-eyed photographer possessed of the uncanny powers of an insect. 
+31:He's an otherworldly devious househusband with a winning smile and a way with the ladies. 
+32:He's a leather-clad dishevelled paramedic with a secret. 
+33:He's a shy playboy vampire hunter from a doomed world. 
+34:He's a deeply religious bohemian stage actor who knows the secret of the alien invasion. 
+35:He's a time-tossed devious astronaut on the run. 
+36:He's a gun-slinging flyboy firefighter on a search for his missing sister. 
+37:He's an old-fashioned moralistic assassin from the Mississippi delta. 
+38:He's an obese Republican farmboy with acid for blood. 
+39:He's an uncontrollable dishevelled cowboy looking for 'the Big One.' 
+40:He's a leather-clad day-dreaming Green Beret living undercover at Ringling Bros. Circus. 
+41:He's an unconventional moralistic vagrant with no name. 
+42:He's a witless Republican shaman on his last day in the job. 
+43:He's a shy alcoholic gangster moving from town to town, helping folk in trouble. 
+44:He's an ungodly guitar-strumming barbarian who hides his scarred face behind a mask. 
+45:He's a short-sighted ninja werewolf on the hunt for the last specimen of a great and near-mythical creature. 
+46:He's a time-tossed guerilla vampire hunter with no name. 
+47:He's a war-weary Catholic cat burglar moving from town to town, helping folk in trouble. 
+48:He's an obese ninja dog-catcher haunted by memories of 'Nam. 
+49:He's a Nobel prize-winning Republican senator haunted by an iconic dead American confidante 
+50:He's a benighted native American paranormal investigator with a secret. 

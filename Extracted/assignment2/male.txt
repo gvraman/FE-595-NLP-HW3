@@ -1,0 +1,100 @@
+1:He's an otherworldly drug-addicted boxer looking for a cure to the poison coursing through his veins. 
+2:He's a genetically engineered alcoholic barbarian with acid for blood. 
+3:He's a genetically engineered crooked waffle chef trapped in a world he never made. 
+4:He's a maverick one-eyed stage actor who believes he can never love again. 
+5:He's a scarfaced sweet-toothed card sharp with acid for blood. 
+6:He's an otherworldly sweet-toothed ex-con from a doomed world. 
+7:He's a gun-slinging guerilla shaman on a mission from God. 
+8:He's an uncontrollable flyboy assassin with no name. 
+9:He's a deeply religious umbrella-wielding firefighter who knows the secret of the alien invasion. 
+10:He's a deeply religious Republican filmmaker looking for a cure to the poison coursing through his veins. 
+11:He's an immortal day-dreaming Green Beret haunted by an iconic dead American confidante 
+12:He's an obese gay cyborg with a mysterious suitcase handcuffed to his arm. 
+13:He's a lonely voodoo shaman for the 21st century. 
+14:He's a fiendish Jewish senator on the hunt for the last specimen of a great and near-mythical creature. 
+15:He's an all-American small-town vampire hunter on the wrong side of the law. 
+16:He's an underprivileged umbrella-wielding astronaut with a winning smile and a way with the ladies. 
+17:He's a world-famous zombie photographer on the run. 
+18:He's a one-legged gay farmboy with no name. 
+19:He's an unconventional voodoo romance novelist with no name. 
+20:He's an oversexed Jewish vampire hunter plagued by the memory of his family's brutal murder. 
+21:He's a leather-clad playboy stage actor who believes he can never love again. 
+22:He's a Nobel prize-winning neurotic hairdresser with a secret. 
+23:He's a shy Catholic grifter plagued by the memory of his family's brutal murder. 
+24:He's a short-sighted zombie firefighter fleeing from a secret government programme. 
+25:He's a maverick pirate dwarf with a winning smile and a way with the ladies. 
+26:He's an all-American gay ex-con from the Mississippi delta. 
+27:He's an uncontrollable arachnophobic astronaut for the 21st century. 
+28:He's a benighted albino paranormal investigator from the 'hood. 
+29:He's a fast talking Amish dwarf fleeing from a secret government programme. 
+30:He's a one-legged Republican stage actor with a secret. 
+31:He's an oversexed hunchbacked barbarian in a wheelchair. 
+32:He's an all-American hunchbacked cowboy haunted by memories of 'Nam. 
+33:He's an obese shark-wrestling paranormal investigator looking for 'the Big One.' 
+34:He's a deeply religious small-town paranormal investigator with a mysterious suitcase handcuffed to his arm. 
+35:He's a superhumanly strong vegetarian card sharp with a secret. 
+36:He's an uncontrollable alcoholic sorceror whom everyone believes is mad. 
+37:He's a fiendish Amish vagrant  
+38:He's an all-American playboy ex-con on a mission from God. 
+39:He's a deeply religious small-town senator in a wheelchair. 
+40:He's a hate-fuelled one-eyed stage actor living undercover at Ringling Bros. Circus. 
+41:He's an oversexed amnesiac assassin with a mysterious suitcase handcuffed to his arm. 
+42:He's a lounge-singing drug-addicted messiah looking for 'the Big One.' 
+43:He's an obese ninja matador searching for his wife's true killer. 
+44:He's a jaded Republican sorceror in drag. 
+45:He's an otherworldly shark-wrestling barbarian haunted by memories of 'Nam. 
+46:He's a time-tossed moralistic rock star with a secret. 
+47:He's a lonely crooked librarian with nothing left to lose. 
+48:He's an unconventional bohemian paramedic on a search for his missing sister. 
+49:He's a scarfaced native American hairdresser living undercover at Ringling Bros. Circus. 
+50:He's an oversexed small-town cyborg moving from town to town, helping folk in trouble. 
+1:He's a lonely devious waffle chef who dotes on his loving old ma. 
+2:He's a fast talking vegetarian vampire hunter who dotes on his loving old ma. 
+3:He's an unconventional drug-addicted cowboy who hides his scarred face behind a mask. 
+4:He's an unconventional hunchbacked cop on the edge. 
+5:He's an ungodly vegetarian shaman gone bad. 
+6:He's a sword-wielding white trash inventor in drag. 
+7:He's a one-legged moralistic cowboy possessed of the uncanny powers of an insect. 
+8:He's a gun-slinging pirate dog-catcher haunted by memories of 'Nam. 
+9:He's an otherworldly drug-addicted messiah whom everyone believes is mad. 
+10:He's a world-famous playboy farmboy who dotes on his loving old ma. 
+11:He's a short-sighted gay cowboy searching for his wife's true killer. 
+12:He's a suave gay vagrant possessed of the uncanny powers of an insect. 
+13:He's a jaded sweet-toothed cowboy with nothing left to lose. 
+14:He's a shy alcoholic cyborg from the Mississippi delta. 
+15:He's a lonely amnesiac househusband gone bad. 
+16:He's an impetuous crooked waffle chef plagued by the memory of his family's brutal murder. 
+17:He's a maverick crooked matador who must take medication to keep him sane. 
+18:He's a bookish sweet-toothed photographer with no name. 
+19:He's a lonely vegetarian messiah on the edge. 
+20:He's a short-sighted crooked master criminal haunted by memories of 'Nam. 
+21:He's a short-sighted dishevelled gentleman spy haunted by an iconic dead American confidante 
+22:He's a witless one-eyed librarian gone bad. 
+23:He's an otherworldly vegetarian cyborg haunted by an iconic dead American confidante 
+24:He's a globe-trotting Jewish gentleman spy with no name. 
+25:He's an otherworldly day-dreaming waffle chef from a doomed world. 
+26:He's a genetically engineered pirate inventor for the 21st century. 
+27:He's a jaded Republican grifter with a winning smile and a way with the ladies. 
+28:He's a time-tossed arachnophobic hairdresser in drag. 
+29:He's a deeply religious arachnophobic astronaut with acid for blood. 
+30:He's a witless flyboy astronaut looking for a cure to the poison coursing through his veins. 
+31:He's an underprivileged overambitious romance novelist who dotes on his loving old ma. 
+32:He's an oversexed Catholic Green Beret on his last day in the job. 
+33:He's a gun-slinging one-eyed card sharp whom everyone believes is mad. 
+34:He's an oversexed moralistic card sharp moving from town to town, helping folk in trouble. 
+35:He's a war-weary skateboarding dwarf  
+36:He's a sword-wielding Republican card sharp with a mysterious suitcase handcuffed to his arm. 
+37:He's a witless coffee-fuelled boxer who believes he can never love again. 
+38:He's a leather-clad Catholic boxer plagued by the memory of his family's brutal murder. 
+39:He's a genetically engineered Amish librarian looking for a cure to the poison coursing through his veins. 
+40:He's an obese sweet-toothed rock star with a robot buddy named Sparky. 
+41:He's an oversexed coffee-fuelled gentleman spy for the 21st century. 
+42:He's a fiendish neurotic filmmaker searching for his wife's true killer. 
+43:He's a deeply religious one-eyed cyborg living undercover at Ringling Bros. Circus. 
+44:He's a benighted flyboy grifter on a search for his missing sister. 
+45:He's an obese one-eyed paranormal investigator who must take medication to keep him sane. 
+46:He's a suicidal sweet-toothed househusband who hides his scarred face behind a mask. 
+47:He's a world-famous vegetarian filmmaker who dotes on his loving old ma. 
+48:He's a fast talking neurotic firefighter on his last day in the job. 
+49:He's a war-weary soccer-playing shaman who hides his scarred face behind a mask. 
+50:He's a leather-clad zombie househusband on the hunt for the last specimen of a great and near-mythical creature. 
